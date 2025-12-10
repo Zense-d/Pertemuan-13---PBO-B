@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LoginSystem
+comment1.params=
+comment1.target=LoginSystem()
+comment2.params=msg\ c
+comment2.target=void\ showMessage(java.lang.String,\ java.awt.Color)
+numComments=3
